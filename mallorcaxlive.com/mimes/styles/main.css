@@ -1,0 +1,152 @@
+body {
+ font-family:Arial;
+ background-color:#f3f3f3;
+}
+table.navi3top {
+ width:750px;
+ border-style:solid;
+ border-width:0;
+ border-color:#000000;
+ background-color:#ffffff;
+ font-size:10;
+ text-align:right;
+}
+table.navi3top a:link {
+ text-decoration:none;
+ color:#808080;
+}
+table.navi3top a:visited {
+ text-decoration:none;
+ color:#FF0000;
+}
+table.navi3top a:hover {
+ color:#000000;
+}
+table.logo_werbung {
+ width:750px;
+ height:80px;
+ border-style:solid;
+ border-width:0;
+ border-color:#000000;
+ background-color:#ffffff;
+ font-size:10;
+ text-align:center;
+}
+table.suche_navi1 {
+ width:750px;
+ height:30px;
+ border-style:solid;
+ border-width:0 0 1 0;
+ border-color:#808080;
+ background-color:#ffffff;
+ font-size:13;
+}
+td.suche_navi1_suche {
+ width:150px;
+ text-align:center;
+}
+td.suche_navi1_navi1 {
+ text-align:right;
+}
+td.suche_navi1_navi1 a:link {
+ color:#808080;
+}
+td.suche_navi1_navi1 a:visited {
+ color:#FF0000;
+}
+td.suche_navi1_navi1 a:hover {
+ color:#000000;
+}
+table.middle {
+ width:750px;
+ height:800px;
+ border-style:solid;
+ border-width:0;
+ border-color:#000000;
+ background-color:#ffffff;
+}
+table.middle td{
+ vertical-align:top;
+}
+table.navi2 {
+ width:190px;
+ border-style:solid;
+ border-width:0 1 0 0;
+ border-color:#808080;
+ background-color:#ffffff;
+ font-size:12;
+}
+td.navi2_2 {
+ font-weight:bold;
+ color:#000000;
+ background-color:#f3f3f3;
+}
+td.navi2_3 a:link {
+ color:#808080;
+}
+td.navi2_3 a:visited {
+ color:#FF0000;
+}
+td.navi2_3 a:hover {
+ color:#000000;
+}
+h1.content {
+ text-decoration:underline;
+ font-size:18;
+ color:#000000;
+ margin:10 10 5 10;
+ text-align:left;
+}
+h2.content {
+ text-decoration:underline;
+ font-size:16;
+ color:#000000;
+ margin:20 10 5 10;
+}
+h3.content {
+ text-decoration:none;
+ font-size:14;
+ color:#000000;
+ margin:10 10 5 10;
+}
+p.content {
+ text-align:justify;
+ font-size:12;
+ color:#000000;
+ margin:0 10 0 10;
+
+}
+div.content a:link {
+ font-size:12;
+ color:#808080;
+ text-align:right;
+ margin:0 10 0 0;
+}
+div.content a:visited {
+ font-size:12;
+ color:#FF0000;
+ margin:0 10 0 0;
+}
+div.content a:hover {
+ color:#000000;
+}
+table.footer {
+ width:750px;
+ border-style:solid;
+ border-width:0;
+ border-color:#000000;
+ background-color:#ffffff;
+ font-size:10;
+ text-align:center;
+}
+table.footer a:link {
+ text-decoration:none;
+ color:#808080;
+}
+table.footer a:visited {
+ text-decoration:none;
+ color:#FF0000;
+}
+table.footer a:hover {
+ color:#000000;
+}

